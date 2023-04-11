@@ -1,4 +1,4 @@
-# Soil mosture & Temperature
+# Soil moisture & Temperature
 
 This code is just for receiving the information given by the pins.
 
